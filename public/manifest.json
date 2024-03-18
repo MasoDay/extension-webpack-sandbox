@@ -5,7 +5,6 @@
     "manifest_version": 3,
     "author": "Ben DeMaso",
     "action": {
-        "default_popup": "index.html",
-        "default_title": "Pupper Pictures"
+        "default_popup": "popup.html"
     }
 }
