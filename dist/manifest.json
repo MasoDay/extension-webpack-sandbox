@@ -1,0 +1,10 @@
+{
+    "name": "Random Dog Generator",
+    "version": "1.0.0",
+    "description": "This extension displays a random dog whenever opened for a little burst of pupper-fueled dopemine while browsing or studying!",
+    "manifest_version": 3,
+    "author": "Ben DeMaso",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
